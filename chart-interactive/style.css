@@ -1,0 +1,29 @@
+h1, h2, h3, h4, p {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+#container {
+	position: relative;
+	margin: 0 auto;
+	width: 1000px;
+}
+
+
+#chartLocation {
+	float: left;
+	width: 70%;
+	height: 700px;
+	background-color: #ecf0f1;
+}
+
+#infoBox {
+	float: right;
+	text-align: center;
+	padding: 10px;
+	box-sizing: border-box;
+	width: 30%;
+	height: 700px;
+	background-color: #34495e;
+	color: #ecf0f1;
+}
